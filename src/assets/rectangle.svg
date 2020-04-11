@@ -1,0 +1,6 @@
+<svg width="144" height="72" viewBox="0 0 144 72" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer">
+  <title>rectangle</title>
+  <path d="M0,0 L144,0 144,72 0,72 0,0" stroke-width="1.5" stroke="#000" fill="#fff" id="myRect" class="foo" />
+ </g>
+</svg>

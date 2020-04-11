@@ -1,19 +1,12 @@
-# svgvue
+# SVG_Vuejs-sample
 
-## Project setup
-```
-npm install
-```
+## Tested Environment
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- @vue/cli 4.3.1
+- vue 2.6.11
+- vue-svg-loader 0.16.0
+- SVGO 1.3.2
 
-### Compiles and minifies for production
-```
-npm run build
-```
+　  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Related Blog (Written in Japanese)
