@@ -21,10 +21,10 @@ module.exports = {
               // デフォルトではSVGファイル中のidを消してしまうため、idをそのままにする
               // https://vue-svg-loader.js.org/faq.html#how-to-prefix-id-attributes
               // https://stackoverflow.com/questions/49417928/vue-svg-loader-removes-some-g-tags-while-loading-svgs
-              // cleanupIDs: false,
+              cleanupIDs: false,
 
               // 下のは、classNameにprefixが付与される
-              prefixIds: true,
+              // prefixIds: true,
 
               // これはカスタマイズしたprefixが付与される
               // prefixIds: {
